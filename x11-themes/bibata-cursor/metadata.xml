@@ -9,7 +9,7 @@
 <flag name="righthanded">Left-leaning mouse cursor</flag>
 <flag name="lefthanded">Right-leaning mouse cursor</flag>
 <flag name="modern-style">Rounded style</flag>
-<flag name="righthanded">Sharp-edged style</flag>
+<flag name="original-style">Sharp-edged style</flag>
 <flag name="color-amber">Cursor color: Yellow</flag>
 <flag name="color-black">Cursor color: Black</flag>
 <flag name="color-white">Cursor color: White</flag>
